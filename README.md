@@ -5,7 +5,7 @@
 
 - 🧠 I’m currently learning **Kotlin & Dart**
 
-- 📝 I am thinkin regularly write articles when I have reached the capability to explain everything down to the smallest detail.
+- 📝 I am thinking regularly write articles when I have reached the capability to explain everything down to the smallest detail.
 
 - 📫 How to reach me <a href="https://twitter.com/_yamisagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_yamisagi" height="30" width="40" /></a>
 
