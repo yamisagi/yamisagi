@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/_yamisagi" target="blank"><img src="https://img.shields.io/twitter/follow/_yamisagi?logo=twitter&style=for-the-badge" alt="_yamisagi" /></a> </p>
 
+<p align="left"> <a href="https://github.com/yamisagi" target="blank"><img src="https://komarev.com/ghpvc/?username=yamisagi&label=Visitor%20Count&color=lightgrey&style=for-the-badge" alt="yamisagi"/></a> </p>
+
 - 🧠 I’m currently learning **Kotlin & Dart**
 
 - 📝 I am thinking regularly write articles when I have reached the capability to explain everything down to the smallest detail.
