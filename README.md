@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">Kotlin and Dart Enthusiast 🤏🏻</h3>
 
-<p align="left"> <a href="https://twitter.com/_yamisagi" target="blank"><img src="https://img.shields.io/twitter/follow/_yamisagi?logo=twitter&style=for-the-badge" alt="_yamisagi" /></a> </p>
+<p align="center"> <a href="https://twitter.com/_yamisagi" target="blank"><img src="https://img.shields.io/twitter/follow/_yamisagi?logo=twitter&style=for-the-badge" alt="_yamisagi" /></a> </p>
 
-<p align="left"> <a href="https://github.com/yamisagi" target="blank"><img src="https://komarev.com/ghpvc/?username=yamisagi&label=Visitor%20Count&color=lightgrey&style=for-the-badge" alt="yamisagi"/></a> </p>
 
 - 🧠 I’m currently learning **Kotlin & Dart**
 
@@ -25,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamisagi&show_icons=true&locale=en" alt="yamisagi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamisagi&theme=default" alt="yamisagi" /></p>
+<!-- Tested How Visitor Count Working :) And I think it's not my type. -->
+<!-- <p align="left"> <a href="https://github.com/yamisagi" target="blank"><img src="https://komarev.com/ghpvc/?username=yamisagi&label=Visitor%20Count&color=lightgrey&style=for-the-badge" alt="yamisagi"/></a> </p> -->
