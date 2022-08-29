@@ -3,6 +3,9 @@
 
 <p align="center"> <a href="https://twitter.com/_yamisagi" target="blank"><img src="https://img.shields.io/twitter/follow/_yamisagi?logo=twitter&style=for-the-badge" alt="_yamisagi" /></a> </p>
 
+<p align="center"><a href="https://github.com/yamisagi"><img src="https://flutter-badge-generator.web.app/assets/assets/images/badges/dcfluttercommunity-member.svg" alt="DC Flutter Community Member" align="center" height="70" width="70" ></a></p>
+<br>
+<br/>
 
 - 🧠 I’m currently learning **Kotlin & Dart**
 
