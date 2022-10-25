@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/_yamisagi" target="blank"><img src="https://img.shields.io/twitter/follow/_yamisagi?logo=twitter&style=for-the-badge" alt="_yamisagi" /></a> </p>
 
-<p align="center"><a href="https://github.com/yamisagi"><img src="https://flutter-badge-generator.web.app/assets/assets/images/badges/dcfluttercommunity-member.svg" alt="DC Flutter Community Member" align="center" height="70" width="70" ></a></p>
+<p align="center"><a href="https://github.com/yamisagi"><img src="https://flutter-badge-generator.web.app/assets/assets/images/badges/dcfluttercommunity-member.svg" alt="DC Flutter Community Member" align="center" height="70" width="70" ></a><a href='https://play.google.com/store/apps/details?id=com.yamisagi.tood_em&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' align="center" height="70" width="120" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a></p>
 <br>
 <br/>
 
