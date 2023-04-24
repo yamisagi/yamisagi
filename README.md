@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">Flutter and Dart Enthusiast 🤏🏻</h3>
-<em><h4 align="center">Now learning iOS Development 🤓</h4></em>
+<em><h4 align="center">Now learning Front-End Development 🤓</h4></em>
 <br />
 
 <p align="center"> <a href="https://twitter.com/_yamisagi" target="blank"><img src="https://img.shields.io/twitter/follow/_yamisagi?logo=twitter&style=for-the-badge" alt="_yamisagi" /></a> </p>
@@ -9,13 +9,13 @@
 <br>
 <br/>
 
-- 🧠 I’m currently learning <em>**iOS Development**</em>
+- 🧠 I’m currently learning <em>**Front-End Development**</em>
 
 - 📝 I am thinking regularly write articles when I have reached the capability to explain everything down to the smallest detail.
 
 - 📚 I am excited to learn new things and always trying to **improve myself**.
 
-- 🫱🏻‍🫲🏻 I’m looking to collaborate for **Flutter & iOS Projects**.
+- 🫱🏻‍🫲🏻 I’m looking to collaborate for **Flutter & Front-End Projects**.
 
 - 📫 How to reach me <a href="https://twitter.com/_yamisagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_yamisagi" height="30" width="40" /></a> <a href="https://linkedin.com/in/yamisagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yamisagi" height="30" width="40" /></a>
 
