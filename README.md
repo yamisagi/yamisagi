@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Eren</h1>
-<h3 align="center">Frontend and React Enthusiast 🤏🏻</h3>
+<h3 align="center">Front End and React Enthusiast 🤏🏻</h3>
 <br />
 
 <p align="center"> <a href="https://twitter.com/_yamisagi" target="blank"><img src="https://img.shields.io/twitter/follow/_yamisagi?logo=twitter&style=for-the-badge" alt="_yamisagi" /></a> </p>
@@ -10,7 +10,7 @@
 
 - 🧠 I’m currently learning <em>**Front-End Development**</em>.
 
-- 🚀 I'm an eager **Front-end Developer** who is passionate about sharing knowledge and contributing to **open source** projects.
+- 🚀 I'm an eager <em>**Front-end Developer**</em> who is passionate about sharing knowledge and **contributing** to <em>**open source**</em> projects.
 
 - 📚 I'm excited to learn new things and always trying to **improve myself**.
 
