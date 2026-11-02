@@ -1,38 +1,92 @@
 <h1 align="center">Hi 👋🏻, I'm Eren</h1>
-<h3 align="center">Front End and React Enthusiast 🤏🏻</h3>
+<h3 align="center">Front-End Developer & AI Systems Builder ⚡</h3>
+
+<p align="center">
+  Crafting modern web platforms at <b><a href="https://cndn.dev">cndn.dev</a></b> & building autonomous AI workflows.
+</p>
+
+<p align="center">
+  <a href="https://cndn.dev" target="_blank">
+    <img src="https://img.shields.io/badge/cndn.dev-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="cndn.dev" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/eren_cndn" target="_blank">
+    <img src="https://img.shields.io/badge/@eren__cndn-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
+
 <br />
 
-<p align="center"> <a href="https://twitter.com/_yamisagi" target="blank"><img src="https://img.shields.io/twitter/follow/_yamisagi?logo=twitter&style=for-the-badge" alt="_yamisagi" /></a> </p>
+- 🌐 **Web Platforms:** Architecting production-grade applications with **Next.js 16**, **TypeScript**, and **Tailwind CSS**.
+- 🤖 **AI & Automation:** Building autonomous agents, web crawlers, and LLM-powered tools.
+- 🚀 **Performance & SEO:** Scalable front-end architecture, local SEO optimization, and clean UI/UX.
+- 📫 **Connect:** Reach me on <a href="https://x.com/eren_cndn"><b>X (@eren_cndn)</b></a> or explore my work at <a href="https://cndn.dev"><b>cndn.dev</b></a>.
 
-<p align="center"><a href="https://github.com/yamisagi"><img src="https://flutter-badge-generator.web.app/assets/assets/images/badges/dcfluttercommunity-member.svg" alt="DC Flutter Community Member" align="center" height="70" width="70" ></a><a href='https://play.google.com/store/apps/details?id=com.yamisagi.tood_em&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' align="center" height="70" width="120" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a></p>
-<br>
-<br/>
+<br />
 
-- 🧠 I’m currently learning <em>**Front-End Development**</em>.
+<h3 align="left">🛠️ Languages, Frameworks & AI Tools:</h3>
 
-- 🚀 I'm an eager <em>**Front-end Developer**</em> who is passionate about sharing knowledge and **contributing** to <em>**open source**</em> projects.
-
-- 📚 I'm excited to learn new things and always trying to **improve myself**.
-
-- 🫱🏻‍🫲🏻 I’m looking to collaborate for **Front-End Projects**.
-
-- 📫 How to reach me <a href="https://twitter.com/_yamisagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_yamisagi" height="30" width="40" /></a> <a href="https://linkedin.com/in/yamisagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yamisagi" height="30" width="40" /></a>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_yamisagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_yamisagi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yamisagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yamisagi" height="30" width="40" /></a>
+  <!-- Next.js -->
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="36" height="36" style="margin-right: 6px;"/>
+  </a>
+  <!-- React -->
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="36" height="36" style="margin-right: 6px;"/>
+  </a>
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36" style="margin-right: 6px;"/>
+  </a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36" style="margin-right: 6px;"/>
+  </a>
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36" style="margin-right: 6px;"/>
+  </a>
+  <!-- Gemini -->
+  <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noreferrer">
+    <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="gemini" width="36" height="36" style="margin-right: 6px;"/>
+  </a>
+  <!-- Antigravity -->
+  <a href="https://antigravity.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.google.com/s2/favicons?domain=antigravity.google.com&sz=128" alt="antigravity" width="36" height="36" style="margin-right: 6px; border-radius: 8px;"/>
+  </a>
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="36" height="36" style="margin-right: 6px;"/>
+  </a>
+  <!-- Vite -->
+  <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="36" height="36" style="margin-right: 6px;"/>
+  </a>
+  <!-- Node.js -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="36" height="36" style="margin-right: 6px;"/>
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36" style="margin-right: 6px;"/>
+  </a>
+  <!-- Vercel -->
+  <a href="https://vercel.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="36" height="36" style="margin-right: 6px;"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://www.swift.com" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" width="40" alt="swift logo"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<br />
+
+<h3 align="left">📊 GitHub Streak:</h3>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=yamisagi&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
-<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=yamisagi&theme=dark" alt="Streak Stats" /></div>
-<div><img src="https://github-readme-stats.vercel.app/api?username=yamisagi&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></div>
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamisagi&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></div>
-
-<p align="left"> <a href="https://github.com/yamisagi" target="blank"><img src="https://komarev.com/ghpvc/?username=yamisagi&label=Visitor%20Count&color=lightgrey&style=for-the-badge" alt="yamisagi"/></a></p> 
+<p align="left">
+  <a href="https://github.com/yamisagi">
+    <img src="https://komarev.com/ghpvc/?username=yamisagi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
+  </a>
+</p>
